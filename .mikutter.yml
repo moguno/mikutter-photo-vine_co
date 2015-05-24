@@ -1,0 +1,9 @@
+---
+slug: :mikutter-photo-vine_co
+depends:
+  mikutter: 3.2.0
+  plugin: []
+version: '1.0'
+author: 
+name: mikutter-photo-vine_co
+description: vine.coのサムネイルを表示します（アニメはしません）
